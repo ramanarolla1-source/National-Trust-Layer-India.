@@ -1,0 +1,11 @@
+Starknet: The "Institutional Seed" Update
+Focus: Native Account Abstraction (AA) & Starkzap SDK.
+File: docs/ecosystems/starknet/README.md
+
+Project: NTL x Starknet
+
+Key Tech: Starkzap SDK v2 + Cartridge Controller.
+
+Innovation: We are leveraging Starknet’s Native AA to replace the "Anonymity Debt" with Biometric Finality. By integrating Starkzap, we enable "Invisible Wallets" for institutional users that meet the March 2026 Eurosystem standards.
+
+Milestone: Implementation of a Universal Mandate Dashboard allowing users to set BTC/Stablecoin limits via hardware-anchored passkeys.
