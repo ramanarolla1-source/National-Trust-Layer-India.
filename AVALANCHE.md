@@ -1,4 +1,4 @@
-Glide: Invisible Infrastructure for the Avalanche Ecosystem
+# Glide: Invisible Infrastructure for the Avalanche Ecosystem
 Overview
 Glide serves as the abstraction layer for the Avalanche "Subnet-per-App" vision. While Subnets offer localized scalability, they often suffer from Liquidity Silos and UX Friction (the need for specific gas tokens and manual bridging). Glide eliminates these barriers using Atomic Guarding logic.
 
@@ -21,7 +21,7 @@ Current Development Status (Fuji Testnet)
 
 [ ] Deployment: Initial "Guard" contracts being prepared for deployment on Avalanche Fuji.
 
-[ ] Subnet Pilot: Designing a mock "Municipal Payments Subnet" to demonstrate invisible onboarding for non-crypto citizens.
+[ ] Subnet Pilot: [ ] Subnet Pilot: Designing a mock "Municipal Payments Subnet" for the India market to demonstrate invisible onboarding for non-crypto citizens paying utility bills with local digital assets.
 
 Roadmap (Avalanche Track)
 Phase 1: Deployment of Atomic Guarding contracts on Fuji C-Chain.
@@ -29,3 +29,14 @@ Phase 1: Deployment of Atomic Guarding contracts on Fuji C-Chain.
 Phase 2: Integration with a localized Subnet using AWM for message verification.
 
 Phase 3: Release of the Glide-AVAX SDK for Subnet developers.
+
+---
+Project Links
+DoraHacks ID: 42143
+
+Video Demo: Glide: Atomic Guarding for Stellar & Initia
+
+GitHub Repository: ramanarolla1-source
+
+Founder: Venkat
+
